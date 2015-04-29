@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookStore>
+	<book id="1">
+		<name>大秦帝国</name>
+		<author>孙皓晖</author>
+		<year>2015</year>
+		<price>567</price>
+	</book>
+	<book id="2" pages="25">
+		<name>安徒生童话</name>
+		<year>2005</year>
+		<price>67</price>
+		<language>English</language>
+	</book>
+</bookStore>
